@@ -2,10 +2,22 @@ import Buzon from './buzon.js';
 
 (function() {
   const persons = [
-    { name: 'Luis', avatar: './img/pacman2.png' },
-    { name: 'Enzo', avatar: './img/pacman2.png' },
-    { name: 'Samu', avatar: './img/pacman2.png' },
-    { name: 'Miguel', avatar: './img/pacman2.png' },
+    { name: 'Adrian Alvarez', avatar: './img/pacman2.png' },
+    { name: 'Adrian Gil Alonso', avatar: './img/pacman2.png' },
+    { name: 'Aitor Sola', avatar: './img/pacman2.png' },
+    { name: 'Alberto Ortega', avatar: './img/pacman2.png' },
+    { name: 'Alejandro Mallón Buitrago', avatar: './img/pacman2.png' },
+    { name: 'Berkan Reyes Hernández', avatar: './img/pacman2.png' },
+    { name: 'DANIEL GÓMEZ BARRO...', avatar: './img/pacman2.png' },
+    { name: 'Daniel Torres', avatar: './img/pacman2.png' },
+    { name: 'Fran Alarza', avatar: './img/pacman2.png' },
+    { name: 'Guille Quintanilla', avatar: './img/pacman2.png' },
+    { name: 'Javier Ortiz Sancho', avatar: './img/pacman2.png' },
+    { name: 'Jonathan Onrubia', avatar: './img/pacman2.png' },
+    { name: 'JOSE MARIA ILA CONTRERAS', avatar: './img/pacman2.png' },
+    { name: 'Kevin Sabajanes', avatar: './img/pacman2.png' },
+    { name: 'POL FORA SÖRENSEN', avatar: './img/pacman2.png' },
+    { name: 'Raúl Sanz', avatar: './img/pacman2.png' },
   ];
 
   const $mainImage = document.querySelector('#main-image');
